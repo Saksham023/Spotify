@@ -15,6 +15,9 @@ router.use(express.urlencoded({extended:true}));
  var client_id = '9ddc7e09db6d4babb7d05f4d573fbf9b'; // Your client id
  var client_secret = '784b3df20acb4a70a329f370ac2cf69c'; // Your secret
  var redirect_uri = 'http://localhost:8888/callback'; // Your redirect uri
+//  var client_id = '612a03d033ac4941be39c235820779a7'; // Your client id
+//  var client_secret = '5e38848bdf3948118d1472a5bdff8dbd'; // Your secret
+//  var redirect_uri = 'http://localhost:8888/callback'; // Your redirect uri
 
 //  const token=0;
  

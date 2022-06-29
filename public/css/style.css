@@ -1889,7 +1889,7 @@ aside .aside-list-items:hover {
     margin-top: 15px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     overflow-x: scroll;
 
 }
@@ -1902,7 +1902,7 @@ aside .aside-list-items:hover {
     margin-top: 15px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     overflow-x: scroll;
 
 }
@@ -1915,7 +1915,7 @@ aside .aside-list-items:hover {
     margin-top: 15px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     overflow-x: scroll;
 
 }
